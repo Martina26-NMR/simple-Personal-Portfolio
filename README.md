@@ -11,9 +11,9 @@ This is my first personal portfolio website, built using **pure HTML and CSS**.
 - **BEM (Block Element Modifier)** methodology for class naming and clean code structure
 - **Media Queries** for making the website responsive and optimized for all screen sizes (mobile, tablet, desktop)
 - **SEO (Search Engine Optimization)** including:
-- **Title**: "Martina's Personal Portfolio"
-- **Meta Description**: "Martina's personal portfolio showcasing web development skills with HTML, CSS, Flexbox, and responsive design."
-- **Keywords**: "Portfolio, Web Developer, HTML, CSS, Responsive Design"
+- **Title**: "simple Personal Portfolio"
+- **Meta Description**: "Fokir's personal portfolio showcasing web development skills with HTML, CSS, Flexbox, and responsive design."
+- **Keywords**: "Portfolio, Web Developer,ALEX SMITH, designer, photographer,Freelancer,UI & UX, HTML, CSS, Responsive Design"
   
 ## 🎯 Purpose
 
